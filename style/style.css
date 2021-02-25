@@ -122,10 +122,10 @@ body{
 }
 
 .app-download:nth-child(1){
-  background-image: url('./img/logo-apple.png');
+  background-image: url('https://raw.githubusercontent.com/BranTheOliver/recriando_interface_instagram/main/img/logo-apple.png');
 }
 .app-download:nth-child(2){
-  background-image: url('./img/logo-google.png');
+  background-image: url('https://raw.githubusercontent.com/BranTheOliver/recriando_interface_instagram/main/img/logo-google.png');
 }
 
 @media (max-width: 1024px){
